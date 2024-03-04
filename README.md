@@ -28,13 +28,13 @@
 
   <br>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white">
+  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </p>
 
 
 <!--
-  <img src="">
+  
   <img src="">
   
 **JiHyeong23/JiHyeong23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
